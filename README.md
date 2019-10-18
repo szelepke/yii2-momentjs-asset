@@ -14,12 +14,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require conquer/momentjs "*"
+$ php composer.phar require szelepke/momentjs "*"
 ```
 or add
 
 ```
-"conquer/momentjs": "*"
+"szelepke/momentjs": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
